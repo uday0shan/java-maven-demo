@@ -1,2 +1,2 @@
 # java-maven-demo
-GitHub Action by Maven Project
+Maven Project Demo by GitHub Action
